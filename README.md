@@ -1,18 +1,18 @@
-[principles]: https://github.com/ksindi/managers-playbook/blob/master/README.md#principles
-[one-on-ones]: https://github.com/ksindi/managers-playbook/blob/master/README.md#one-on-ones
-[coaching]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coaching
-[feedback]: https://github.com/ksindi/managers-playbook/blob/master/README.md#feedback
-[thinking-strategically]: https://github.com/ksindi/managers-playbook/blob/master/README.md#thinking-strategically
-[making-decisions]: https://github.com/ksindi/managers-playbook/blob/master/README.md#making-decisions
-[coding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coding
-[ticket-and-pr-process]: https://github.com/ksindi/managers-playbook/blob/master/README.md#ticket-and-pr-process
-[communicating]: https://github.com/ksindi/managers-playbook/blob/master/README.md#communicating
-[hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
-[onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
-[announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
-[managing-up]: https://github.com/ksindi/managers-playbook/blob/master/README.md#managing-up
-[managing-sideways]: https://github.com/ksindi/managers-playbook/blob/master/README.md#managing-sideways
-[further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
+[principles]: #principles
+[one-on-ones]: #one-on-ones
+[coaching]: #coaching
+[feedback]: #feedback
+[thinking-strategically]: #thinking-strategically
+[making-decisions]: #making-decisions
+[coding]: #coding
+[ticket-and-pr-process]: #ticket-and-pr-process
+[communicating]: #communicating
+[hiring]: #hiring
+[onboarding]: #onboarding
+[announcing-change]: #announcing-change
+[managing-up]: #managing-up
+[managing-sideways]: #managing-sideways
+[further-reading]: #further-reading
 
 # Manager's Playbook
 
